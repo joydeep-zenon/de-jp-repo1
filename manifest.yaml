@@ -2,4 +2,7 @@ displayName: JOY_DE_GIT_NEW_SOLUTION
 projectKey: JOY_DE_GIT_NEW_SOLUTION
 version: 1.0.0
 modules:
-- name: common
+- fileSearchPaths:
+  - code
+  - taxonomy
+  name: common
